@@ -4,7 +4,6 @@
   font-family: "PP Mori";
   src: local("PP Mori"), local("PPMori-Regular"),
        url("fonts/PPMori-Regular.woff2") format("woff2"),
-       url("fonts/PPMori-Regular.woff") format("woff"),
        url("fonts/PPMori-Regular.otf") format("opentype");
   font-weight: 400;
   font-style: normal;
